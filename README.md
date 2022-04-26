@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m @ELMehdiNaor
 - 👀 I’m interested in Computer Vision, Deep Learning, Software Testing
-- 🌱 I’m currently learning Computer Vision (in Python and C++)
+- 🌱 I’m currently learning Computer Vision (in Python)
 - 💞️ I’m looking to collaborate on different subjects
 - 📫 How to reach me : mhaydo93@gmail.com
 
